@@ -41,7 +41,7 @@ If you want more detailed instructions, here are the steps to follow:
 13. You should test your code by right-clicking on the code and selecting "Run Python File in Terminal". The results will appear at the bottom. Make sure everything looks the way you would expect
 14. Open the README.md file (which, at this point contains all this information). The purpose of this file is to describe what you code does, so edit it to describe what you are trying to accomplish with your code. Write in your own voice, and try to be helpful to anyone who downloads this project. What are you hoping to accomplish? What should someone expect to see when they run your code? When you are done editing README.md, save the file
 
----
+---All in all, what I was accomplishing is to write the code for running the python code to make it working through the terminal. Everything I typed in this file were correctly and look the way that I expected. When someone expect to see when they run my code, they can see all the questions and answers directly showed in the python terminal. To be more detailed, it seems like python code draw a routine for the whole progress and became systematically and did what I typed before.
 
 15. When you are done editing the files, you should see an icon on the far-left bar that looks like three circles, connected by lines. That icon should be badged with a "3". Push that button now
 16. At the top of the leftmost area, you should see a text box labeled "Message". Add a message that describes what you have done; these messages are typically stated in the active-present tense. For example, "Updates the LICENSE, README.md, and completes the assignment." Click the check mark above the text box to commit your changes
